@@ -32,8 +32,7 @@ WanderWise is a full-stack AI travel planner that generates personalized itinera
 | 🗺️ Trip Generator |
 |------------------|
 | ![image](https://github.com/user-attachments/assets/c8536f0e-003e-4ad3-b92d-f55b17deb8a4)
-![image](https://github.com/user-attachments/assets/93950a55-fb9d-4a01-bc4d-acf1c6090f15)
-|
+![image](https://github.com/user-attachments/assets/93950a55-fb9d-4a01-bc4d-acf1c6090f15) 
 
 | 📍 Places to Visit |
 |-------------------|
